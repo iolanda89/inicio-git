@@ -1,5 +1,5 @@
-# inicio-git
-Lista de cursos para controlar no GIT - TEste
+# Git
+Git procedures
 
 # Conceitos e Funcionalidades
 
