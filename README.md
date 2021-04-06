@@ -1,5 +1,5 @@
 # Git
-Git procedures
+Git procedures.
 
 # Conceitos e Funcionalidades
 
